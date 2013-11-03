@@ -1,3 +1,4 @@
 name: America, Distilled
 markdown: redcarpet
 pygments: true
+baseurl: http://dotmr.github.io/distilled 
